@@ -1,5 +1,5 @@
-backend/personne3/README.md
-# Personne 3 – Administration et Authentification
+backend/personne3/README.md 
+hadjerboukhchima (groupe03)– Administration et Authentification
 
 Cette partie concerne l’authentification et l’espace administrateur
 du projet « ProFormation Academy ».
